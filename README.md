@@ -1,4 +1,4 @@
-[![MasterHead](https://res.cloudinary.com/practicaldev/image/fetch/s--JywRFstP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://user-images.githubusercontent.com/19341550/72213854-0c4dc080-351c-11ea-9646-c6917ae7df2d.gif)](https://github.com/zayatanweer/zayatanweer)
+[![MasterHead](https://static.wixstatic.com/media/0f65e1_5573a7f905724e0ab47542014ba4ac1f~mv2.gif)](https://github.com/zayatanweer/zayatanweer)
 <h1 align="center">Hi 👋, I'm Tanweer Zaya</h1>
 <h3 align="center">A passionate MERN STACK DEVELOPER from India</h3>
 <img align="right" alt="Coding" width="400" src="https://www.lambdatest.com/resources/images/news24.gif">
