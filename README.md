@@ -1,4 +1,7 @@
-[![MasterHead](https://static.wixstatic.com/media/0f65e1_5573a7f905724e0ab47542014ba4ac1f~mv2.gif)](https://github.com/zayatanweer/zayatanweer)
+![logo](https://github.com/coderSidd03/coderSidd03/blob/main/github%20banner.png.gif)
+
+![logo](https://github.com/coderSidd03/coderSidd03/blob/main/welcome.gif) 
+
 <h1 align="center">Hi 👋, I'm Tanweer Zaya</h1>
 <h3 align="center">A passionate MERN STACK DEVELOPER from India</h3>
 <img align="right" alt="Coding" width="400" src="https://www.lambdatest.com/resources/images/news24.gif">
